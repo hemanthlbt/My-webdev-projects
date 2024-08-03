@@ -1,0 +1,41 @@
+
+
+
+
+
+body {
+
+/*  back ground image  */
+
+	background-color:grey;
+	background-image: url("surf.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+h1 {
+
+/* welcome*/
+color : ghostwhite;
+font-family:Helvetica ;
+font-size:100px;
+text-align: justify;
+
+}
+
+
+h2 {
+
+/*  surf the web  */
+color : ghostwhite;
+font-size: 100px;
+font-family: Helvetica;
+text-align : justify;
+
+}
+
+
+img  {
+
+	margin:10px;
+}
