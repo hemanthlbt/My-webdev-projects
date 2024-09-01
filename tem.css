@@ -1,0 +1,30 @@
+button {
+
+/*background-image : url("blue back.jpg")*/
+background-color : red;
+color : black;
+height : 50px;
+width : 140px;
+font-size : 15px;
+/*background-image : url("chimpu.jpg")*/
+          border : 3px solid black;
+font-family : helvetica;
+/*margin-top : 125px;
+margin-right : 125px;
+margin-bottom : 125px;
+margin-left : 125px;
+*/
+font-size : 20px;
+
+margin : 125px 125px 125px 125px ;
+float : ;
+
+padding-top : 25px 25px 25px 25px;
+}
+
+
+
+
+
+
+
