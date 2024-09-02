@@ -1,41 +1,52 @@
-
-
-
+h1{
+text-align:center;
+font-size:50px;
+font-family:helvetica;
+color:black;
+margin-top: 25px;
+margin-right: 250px;
+margin-bottom: 25px;
+margin-left: 25px;
+}
 
 
 body {
-
-/*  back ground image  */
-
-	background-color:grey;
-	background-image: url("surf.jpg");
-	background-size:cover;
-	background-attachment:fixed;
-}
-
-h1 {
-
-/* welcome*/
-color : ghostwhite;
-font-family:Helvetica ;
-font-size:100px;
-text-align: justify;
-
+background-color:grey;
 }
 
 
 h2 {
+text-align :;
+font-family : helvetica;
+font-size:15px;
+margin : 5px;
+color : solidblack;
+}
 
-/*  surf the web  */
-color : ghostwhite;
-font-size: 100px;
-font-family: Helvetica;
-text-align : justify;
-
+button {
+text-align:center;
+height: 30px;
+width:100px;
+background-color:yellow;
+font-family: helvetica;
+font-size:15px;
+border : 3px solid black;
 }
 
 
-img  {
-
-	margin:10px;
+p{
+text-align : center;
+font-family : helvetica;
+font-size: 20px;
 }
+
+
+
+
+
+
+
+
+
+
+
