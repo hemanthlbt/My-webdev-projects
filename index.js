@@ -1,9 +1,9 @@
 let bunty = () => {
 
-console.log("taking you to youtube")
+console.log("Fuck peyton list today")
 
 
 
 
 
-}
+} 

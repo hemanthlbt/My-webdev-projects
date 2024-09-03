@@ -7,7 +7,7 @@ margin-top: 25px;
 margin-right: 250px;
 margin-bottom: 25px;
 margin-left: 25px;
-}
+} 
 
 
 body {
@@ -31,6 +31,8 @@ background-color:yellow;
 font-family: helvetica;
 font-size:15px;
 border : 3px solid black;
+margin : 25px 50px 75px 100px;
+
 }
 
 
@@ -40,8 +42,26 @@ font-family : helvetica;
 font-size: 20px;
 }
 
+#bunty{
+
+	text-align :center;
+	font-size:90px;
+	font-family : ;
+}
 
 
+#high{
+
+background-color: red;
+
+
+
+}
+
+#image {
+	height : 200px;
+	width : 200px;
+}
 
 
 
